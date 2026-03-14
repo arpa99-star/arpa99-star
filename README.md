@@ -1,15 +1,27 @@
-### Hi there 👋
+<div align="center">
 
+# Masrur Sabab Khan Chowdhury
 
+*Graduated*
 
-- 🔭 I’m currently working on 💻 an internship & 🔍 Research projects
-- 🌱 I’m currently learning 🤖 Artificial Intelligence (AI) | 📈 Machine Learning (ML) | 📊 Vision-Language Models (VLM) | 🖼 Computer Vision (CV) | 🗣 Natural Language Processing (NLP)
-- 👯 I’m looking to collaborate on research-oriented projects to learn, explore, and contribute to innovative ideas.
-- 🤔 I’m looking for help with 🧠 exploring AI/ML concepts and building hands-on projects.
-- 📫 How to reach me: arpasahaprottasha@gmail.com
-- 🌟 Interested in 🤖 AI & ML
-- 💬 Always happy to talk about tech and new innovations!
-- 
-  
+Dhaka, Bangladesh
+
+🌐 [Portfolio](YOUR_PORTFOLIO_LINK_HERE)  •  📧 [Email](mailto:YOUR_EMAIL_HERE)
+
+</div>
+
+---
+
+## About Me
+
+As a curious and driven learner, I seek to explore diverse sectors of technology and innovation. I am an **Aspiring Systems Engineer** and a **Deep Learning Enthusiast** currently pursuing my B.Sc. in Computer Science and Engineering.
+
+My journey is fueled by a passion for solving real-world challenges through programming, AI, and data-driven analysis. I aim to create meaningful impact through technology, whether it's by building scalable web systems, developing automated medical diagnostics using **Vision-Language Transformers**, or designing complex digital logic circuits.
+
+---
+
+## Experience
+
+*(Eikhane tumi tumar experience gulo bullet point-e likhte paro)*
 
   
