@@ -36,13 +36,12 @@ I am interested in research-oriented collaboration where I can learn, explore in
 
 ## Skills
 
----
 
 **Artificial Intelligence & Data** <code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-learn</code> <code>Pentaho</code>
 
 **Web & Backend Development** <code>PHP</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>JavaFX</code>
 
-**Core & Infrastructure** <code>C</code> <code>C++</code> <code>Java</code> <code>Linux</code> <code>Cisco Packet Tracer</code> <code>MongoDB</code>
+**Core & Infrastructure** <code>C</code> <code>C++</code> <code>Java</code> <code>Linux</code> <code>Cisco Packet Tracer</code> <code>MySQL</code>
 
 ---
   
