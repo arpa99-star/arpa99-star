@@ -12,14 +12,25 @@ Dhaka, Bangladesh
 
 ## About Me
 
-As a curious and driven learner, I seek to explore diverse sectors of technology and innovation. I am an **Aspiring Systems Engineer** and a **Deep Learning Enthusiast** currently pursuing my B.Sc. in Computer Science and Engineering.
+As a passionate and curious learner in the field of Artificial Intelligence, I enjoy exploring the intersection of technology, data, and intelligent systems. I am currently focused on studying Artificial Intelligence, Machine Learning, Vision-Language Models, Computer Vision and Natural Language Processing.
 
-My journey is fueled by a passion for solving real-world challenges through programming, AI, and data-driven analysis. I aim to create meaningful impact through technology, whether it's by building scalable web systems, developing automated medical diagnostics using **Vision-Language Transformers**, or designing complex digital logic circuits.
+I am interested in research-oriented collaboration where I can learn, explore innovative ideas and contribute to meaningful AI/ML projects. I am always open to discussing technology, new innovations and opportunities to grow within the AI community.
 
 ---
 
 ## Experience
 
-*(Eikhane tumi tumar experience gulo bullet point-e likhte paro)*
+### **Intern at Janata Bank PLC**
+
+*Online Banking Department*
+
+*November 2025 - February 2026*
+
+**Project:** OCR-Based eKYC Data Extraction on National Identity (NID) Cards.
+
+*	Developed an NID-based eKYC OCR pipeline using Python to automatically extract Bangla and English text from National ID card images for digital identity verification.
+*	Implemented a Deep Learning–based image enhancement module using Real-ESRGAN combined with OpenCV preprocessing techniques (grayscale conversion, denoising, CLAHE contrast enhancement, Otsu thresholding) to improve OCR readability and accuracy.
+*	Applied Deep Learning OCR (EasyOCR) for multilingual text recognition and designed regex-based field extraction methods to identify key identity fields including Name, Date of Birth and NID Number, along with a field-wise and overall confidence scoring mechanism to evaluate extraction reliability.
+
 
   
