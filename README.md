@@ -1,12 +1,10 @@
 <div align="center">
 
-# Masrur Sabab Khan Chowdhury
+# Arpa Saha
 
 *Graduated*
 
 Dhaka, Bangladesh
-
-🌐 [Portfolio](YOUR_PORTFOLIO_LINK_HERE)  •  📧 [Email](mailto:YOUR_EMAIL_HERE)
 
 </div>
 
